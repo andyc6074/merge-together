@@ -1,8 +1,9 @@
 # merge-together
 
-it is
+it not
 raining
-cat
+cats
 and
-dog
+dogs
 corpse
+
